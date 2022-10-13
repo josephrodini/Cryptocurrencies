@@ -21,17 +21,17 @@ This project helps a client who is interested in offering a portfolio of several
 
 ## Code
 
-Please see crypto_clustering for pre-processing, PCA, K-means, and generation of visualizations.
+Please see [crypto_clustering](https://github.com/josephrodini/Cryptocurrencies/blob/main/crypto_clustering.ipynb) for pre-processing, PCA, K-means, and generation of visualizations.
 
 ## Results
 
 3-D Plot of the Four Classes:
 
-
+![3-D](https://github.com/josephrodini/Cyptocurrencies/blob/main/Images/PCA_3D.PNG?raw=true)
 
 2-D Plot of Coin Supply vs. Coins Mined:
 
-
+![2-D](https://github.com/josephrodini/Cyptocurrencies/blob/main/Images/ScatterCrypto.PNG?raw=true)
 
 ## Conclusion
 
