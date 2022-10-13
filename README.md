@@ -27,11 +27,11 @@ Please see [crypto_clustering](https://github.com/josephrodini/Cryptocurrencies/
 
 3-D Plot of the Four Classes:
 
-![3-D](https://github.com/josephrodini/Cyptocurrencies/blob/main/Images/PCA_3D.PNG?raw=true)
+![3_D](https://github.com/josephrodini/Cyptocurrencies/blob/main/Images/PCA_3D.PNG?raw=true)
 
 2-D Plot of Coin Supply vs. Coins Mined:
 
-![2-D](https://github.com/josephrodini/Cyptocurrencies/blob/main/Images/ScatterCrypto.PNG?raw=true)
+![2_D](https://github.com/josephrodini/Cyptocurrencies/blob/main/Images/ScatterCrypto.PNG?raw=true)
 
 ## Conclusion
 
